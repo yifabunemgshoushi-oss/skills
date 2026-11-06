@@ -1,5 +1,5 @@
 ---
-name: dsf-use-subagents
+name: dsf-use-subagents-zcode
 description: 子代理编排：用于拆分任务、安排依赖与后台执行、验收和整合回报，以及处理追问、阻塞与验证收尾。
 ---
 
